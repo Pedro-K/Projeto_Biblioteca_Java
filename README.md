@@ -1,6 +1,6 @@
 # Biblioteca - Sistema de Biblioteca
 
-Refund é uma aplicação web de solicitação de reembolso e listagem de despesas. 
+O projeto é um sistema de biblioteca para testar os conhecimentos em POO. 
 
 ## Tecnologias
 
